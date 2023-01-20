@@ -1,0 +1,8 @@
+{
+  "name": "api-to-typescript-research",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kjkandrea/api-to-typescript-research.git",
+  "author": "kjkandrea <kjkandrea@gmail.com>",
+  "license": "MIT"
+}
